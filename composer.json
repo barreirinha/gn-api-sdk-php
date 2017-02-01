@@ -1,6 +1,6 @@
 {
   "name": "gerencianet/gerencianet-sdk-php",
-  "description": "GN API SDK PHP",
+  "description": "GN API SDK PHP - Adaptado",
   "version": "1.0.12",
   "require": {
     "guzzlehttp/guzzle": "5.3.0",
